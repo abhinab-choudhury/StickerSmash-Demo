@@ -40,6 +40,14 @@ This command will move the starter code to the **app-example** directory and cre
 
 ![screenshot1](https://docs.expo.dev/static/images/tutorial/statusbar-example.png)
 
+## Video
+
+
+https://github.com/user-attachments/assets/a4ec4491-c5a1-4f72-b6ab-918c359d33fb
+
+
+
+
 ## Learn more
 
 To learn more about developing your project with Expo, look at the following resources:
