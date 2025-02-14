@@ -6,17 +6,13 @@ export default function NotFoundScreen() {
     <>
       <Stack.Screen options={{ title: "Page Not Found", headerShown: false }} />
       <View style={styles.container}>
-        <Link
-         href={"/"}
-         style={styles.button}
-        >
-            Go back to Home Screen
+        <Link href={"/"} style={styles.button}>
+          Go back to Home Screen
         </Link>
       </View>
     </>
   );
 }
-
 
 const styles = StyleSheet.create({
   container: {
@@ -28,6 +24,6 @@ const styles = StyleSheet.create({
   button: {
     color: "#fff",
     fontSize: 20,
-    textDecorationLine: "underline"
+    textDecorationLine: "underline",
   },
 });
